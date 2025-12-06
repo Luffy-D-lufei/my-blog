@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/my-blog/',
   head: [
     ['link', 
       { rel: 'icon', href: '/favicon.ico' }
@@ -72,7 +73,7 @@ export default defineConfig({
     ]
   ],
   transformPageData(pageData) {
-    const canonicalUrl = `https://taotaoxu.com/${pageData.relativePath}`
+    const canonicalUrl = `https://luffy-d-lufei.github.io/my-blog/${pageData.relativePath}`
       .replace(/index\.md$/, '')
       .replace(/\.md$/, '.html')
 
