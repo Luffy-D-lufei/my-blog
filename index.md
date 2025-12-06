@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "鲨鱼辣椒"
-  text: "一个写博客的地方1"
+  text: "一个写博客的地方12"
   # tagline: My great project tagline
   # actions:
   #   - theme: brand
