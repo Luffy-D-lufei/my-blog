@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "前端徐徐"
-  text: "一个写博客的地方"
+  name: "鲨鱼辣椒"
+  text: "一个写博客的地方1"
   # tagline: My great project tagline
   # actions:
   #   - theme: brand
