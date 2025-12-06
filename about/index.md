@@ -2,7 +2,7 @@
 outline: deep
 footer: false
 title: 关于我
-titleTemplate: 前端徐徐
+titleTemplate: 鲨鱼辣椒
 ---
 
 # 关于我

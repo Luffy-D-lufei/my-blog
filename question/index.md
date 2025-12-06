@@ -1,6 +1,6 @@
 ---
 outline: deep
-titleTemplate: 前端徐徐
+titleTemplate: 鲨鱼辣椒
 ---
 
 # 前端面试题

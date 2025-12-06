@@ -1,6 +1,6 @@
 ---
 outline: deep
-titleTemplate: 前端徐徐
+titleTemplate: 鲨鱼辣椒
 ---
 
 ::: tip Electron 开发实践指南

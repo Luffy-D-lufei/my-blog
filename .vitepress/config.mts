@@ -19,7 +19,7 @@ export default defineConfig({
       {
         name: "keywords",
         content:
-          "前端徐徐,前端博客,前端开发,Eletron实战,Tauri实战,Eletron,Tauri,Taotao's Blog,xutaotao,Xutaotaotao,Taotao,徐涛焘,徐涛涛,徐涛,blog,Blog,技术博客,博客,个人博客,技术总结,问题解析,个人成长,前端,JavaScript,Vue,React,网络,Electron,Node.js,TypeScript,Rust",
+          "鲨鱼辣椒,前端博客,前端开发,Eletron实战,Tauri实战,Eletron,Tauri,Taotao's Blog,xutaotao,Xutaotaotao,Taotao,徐涛焘,徐涛涛,徐涛,blog,Blog,技术博客,博客,个人博客,技术总结,问题解析,个人成长,前端,JavaScript,Vue,React,网络,Electron,Node.js,TypeScript,Rust",
       },
     ],
     [
@@ -84,11 +84,11 @@ export default defineConfig({
     ])
   },
   lastUpdated: true,
-  title: "前端徐徐",
-  titleTemplate: "前端徐徐",
-  description: "前端徐徐,前端博客,前端开发,Eletron实战,Tauri实战,Eletron,Tauri,Taotao's Blog,xutaotao,Xutaotaotao,Taotao,徐涛焘,徐涛涛,徐涛,blog,Blog,技术博客,博客,个人博客,技术总结,问题解析,个人成长,前端,JavaScript,Vue,React,网络,Electron,Node.js,TypeScript,Rust",
+  title: "鲨鱼辣椒",
+    titleTemplate: "鲨鱼辣椒",
+    description: "鲨鱼辣椒,前端博客,前端开发,Eletron实战,Tauri实战,Eletron,Tauri,Taotao's Blog,xutaotao,Xutaotaotao,Taotao,徐涛焘,徐涛涛,徐涛,blog,Blog,技术博客,博客,个人博客,技术总结,问题解析,个人成长,前端,JavaScript,Vue,React,网络,Electron,Node.js,TypeScript,Rust",
   themeConfig: {
-    siteTitle:'前端徐徐',
+    siteTitle:'鲨鱼辣椒',
     // https://vitepress.dev/reference/default-theme-config
     search: {
       provider: 'local'
